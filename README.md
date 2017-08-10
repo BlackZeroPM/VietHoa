@@ -1,3 +1,5 @@
+# Giới thiệu
+Mình là BlackZeroPM và đây là những plugin mà mình đã việt hóa, mình sẽ dịch một số plugin trong thời gian rảnh, khoảng 1 tuần/1 plugin.
 # Việt Hóa
 Tất cả plugin mình đã việt hóa:
 + SignWarp (70%)
